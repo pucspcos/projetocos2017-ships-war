@@ -1,8 +1,7 @@
-# Nome do projeto
-
+# Tanks War
 Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
 
-# Nome compledo dos integrantes do projeto:
+# Integrantes do projeto:
 
 * Cesar Matheus
 * Lucas França
