@@ -1,5 +1,6 @@
 # Tanks War
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
+
+https://github.com/pucspcos/projetocos2017-tanks-war/wiki/Sobre-o-Jogo
 
 # Integrantes do projeto:
 
