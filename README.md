@@ -1,4 +1,6 @@
-# Tanks War
+# Ships War
+
+Ships War se trata de um jogo PvP (Player vs Player) local, dividindo o mesmo teclado, onde o último capitão que estiver sobre as águas, vence. O jogador que vencer dois rounds, ganha a partida. Então, reuna sua tripulação e venha para a batalha!
 
 https://github.com/pucspcos/projetocos2017-tanks-war/wiki/Sobre-o-Jogo
 
