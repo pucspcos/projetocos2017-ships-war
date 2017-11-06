@@ -10,7 +10,7 @@ https://github.com/pucspcos/projetocos2017-tanks-war/wiki/Sobre-o-Jogo
 
 # Imagens do jogo:
 
-Inserir imagens do jogo.
+
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
