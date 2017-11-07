@@ -1,6 +1,6 @@
 # Ships War
 
-Ships War se trata de um jogo PvP (Player vs Player) local, dividindo o mesmo teclado, onde o último capitão que estiver sobre as águas, vence. O jogador que vencer dois rounds, ganha a partida. Então, reuna sua tripulação e venha para a batalha!
+Ships War é um jogo feito a partir do TANKS! Unity Tutorial. Venha descobrir mais sobre o nosso jogo!
 
 https://github.com/pucspcos/projetocos2017-tanks-war/wiki/Sobre-o-Jogo
 
@@ -27,7 +27,6 @@ https://github.com/pucspcos/projetocos2017-tanks-war/wiki/Sobre-o-Jogo
 # Link no Itch IO para o download dos executáveis do jogo:
 
 * 1 - Faça o download do jogo nesse link : https://lucasf.itch.io/ships-war 
-* 2 - Instale 7Zip ou Winrar 
-* 3 - Extraia o arquivo no local desejado 
-* 4 - Execute "Jogo" na pasta do jogo 
-* 5 - Divirta-se
+* 2 - Extraia o arquivo no local desejado utilizando o 7Zip ou Winrar
+* 3 - Execute o ".exe" na pasta do jogo 
+* 4 - Divirta-se
